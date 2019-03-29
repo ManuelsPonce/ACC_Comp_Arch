@@ -1,0 +1,14 @@
+#Executables
+attiny85sim/attiny85sim
+
+#c++
+*.o
+*.a
+
+#python
+*.py[cod]
+__pycache__
+
+#vim
+*~
+*.swp

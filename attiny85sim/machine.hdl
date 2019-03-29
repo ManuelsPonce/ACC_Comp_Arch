@@ -1,0 +1,8 @@
+PARTS
+    c1 : Component;
+    c2 : Component
+END
+
+CONNECTIONS
+    c1.out -> c2.in
+    END
